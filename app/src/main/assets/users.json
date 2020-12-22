@@ -1,0 +1,133 @@
+{
+  "Users": [
+    {
+      "ID": 1,
+      "USERNAME": "GeoPap",
+      "PASSWORD": "1234",
+      "FULLNAME": "Georgios Papadopoulos",
+      "STUDENT_OR_PROFESSOR": true,
+      "LESSONS_IDS": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        12,
+        6
+      ]
+    },
+    {
+      "ID": 2,
+      "USERNAME": "GiaPap",
+      "PASSWORD": "5678",
+      "FULLNAME": "Giannis Pappas",
+      "STUDENT_OR_PROFESSOR": false,
+      "LESSONS_IDS": [
+        1,
+        2,
+        3
+      ],
+      "DISSERTATIONS_IDS": [
+        1001
+      ]
+    },
+    {
+      "ID": 3,
+      "USERNAME": "NikGeo",
+      "PASSWORD": "9163",
+      "FULLNAME": "Nikos Georgiadis",
+      "STUDENT_OR_PROFESSOR": true,
+      "LESSONS_IDS": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "ID": 4,
+      "USERNAME": "DimIon",
+      "PASSWORD": "4860",
+      "FULLNAME": "Dimitris Ioannidis",
+      "STUDENT_OR_PROFESSOR": false,
+      "LESSONS_IDS": [
+        4,
+        5,
+        9
+      ],
+      "DISSERTATIONS_IDS": [
+        1002
+      ]
+    },
+    {
+      "ID": 5,
+      "USERNAME": "KosKar",
+      "PASSWORD": "1593",
+      "FULLNAME": "Kostas Karagiannis",
+      "STUDENT_OR_PROFESSOR": true,
+      "LESSONS_IDS": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        6,
+        10,
+        7
+      ]
+    },
+    {
+      "ID": 6,
+      "USERNAME": "PasGrg",
+      "PASSWORD": "3749",
+      "FULLNAME": "Paschalis Georgiou",
+      "STUDENT_OR_PROFESSOR": false,
+      "LESSONS_IDS": [
+        6,
+        11,
+        10
+      ],
+
+      "DISSERTATIONS_IDS": [
+        1003
+      ]
+    },
+    {
+      "ID": 7,
+      "USERNAME": "AleAnt",
+      "PASSWORD": "8046",
+      "FULLNAME": "Alexandros Antoniou",
+      "STUDENT_OR_PROFESSOR": true,
+      "LESSONS_IDS": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        11,
+        12,
+        8
+      ]
+    },
+    {
+      "ID": 8,
+      "USERNAME": "VasThe",
+      "PASSWORD": "1964",
+      "FULLNAME": "Vasilis Theodoridis",
+      "STUDENT_OR_PROFESSOR": false,
+      "LESSONS_IDS": [
+        12,
+        7,
+        8
+      ],
+      "DISSERTATIONS_IDS": [
+        1004
+      ]
+    }
+  ]
+}
